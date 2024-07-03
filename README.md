@@ -1,7 +1,7 @@
 ## Hi there, I'm [RD](resume.rdieud.com)!! 👋
 <b>Fullstack Software Developer, _former_ Product Manager, and AI enthusiast.</b>
 
-I love learning and sharing knowledge. I freelance (open for job opportunities) and code in my free time on projects I'm passionate about including **Open Source**.<br/> 
+I love learning and sharing knowledge. I freelance (open for job opportunities) and code in my free time on projects I'm passionate about including **Open Source**.
 My main stack is **#React**, **#NextJS**, #NodeJS (**#ExpressJS**), **#AWS** and occasionally **#Symfony**. My favorite architectures are **#microservices** and **#menorepo**.
 
 <p align="center">
