@@ -1,9 +1,8 @@
-## Hi there, I'm [RD](resume.rdieud.com)!! 👋
+## Hi there, I'm [RD](https://resume.rdieud.com)!! 👋 (open to permanent work)
 
-</style>
-<b>Fullstack Software Developer, _former_ Product Manager, and AI enthusiast.</b>
+<b>Fullstack Web Developer 🕷️, late-night coder 🦉, and AI enthusiast ✨</b> who loves learning new things and sharing knowledge.
 
-I love learning and sharing knowledge. I freelance (<u>open for permanent job opportunities</u>) and code in my free time on projects I'm passionate about including **Open Source**.
+I freelance (<u>open for permanent jobs</u>) and code in my free time on projects I'm passionate about,including **Open Source**.
 My main stack is **#React**, **#NextJS**, #NodeJS (**#ExpressJS**), **#AWS** and occasionally **#Symfony**. My favorite architectures are **#microservices** and **#menorepo**.
 
 <p align="center">
@@ -19,8 +18,8 @@ _🌱 I’m currently learning or certififying my skills on **Microfrontends**, 
 <sm>_These are projects I'm actively developing. Features are regularly implemented and updated. Some may not be available yet._</sm>
 
 - **LeChatByYou**: A **human-to-human** and **human-to-AI** chat application built for productivity, with **LLM engine preference** switch feature.
-- **[GarceGames](https://garcegames.vercel.app/)**: Video game browsing platform focused on user experience, with GamePass and other catalog updates.
-- **[ISD](iamservicedesk.vercel.app)**: Productivity tool for time, task, and product management for individuals, developers, and collaborative teams. Build and share your roadmap, manage user feedback in a single application.
+- **[GarceGames](https://garcegames.vercel.app)**: Video game browsing platform focused on user experience, with GamePass and other catalog updates.
+- **[ISD](https://iamservicedesk.vercel.app)**: Productivity tool for time, task, and product management for individuals, developers, and collaborative teams. Build and share your roadmap, manage user feedback in a single application.
 
 <sm>_Only advanced or already available projects are featured; others are in the backlog._</sm>
 
