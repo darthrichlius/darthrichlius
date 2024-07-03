@@ -6,7 +6,7 @@ My main stack is **#React**, **#NextJS**, #NodeJS (**#ExpressJS**), **#AWS** and
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,symfony,aws,vercel,typescript&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,symfony,aws,vercel,typescript,docker&theme=dark" />
   </a>
 </p>
 
