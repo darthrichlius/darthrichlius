@@ -2,8 +2,9 @@
 
 <b>Fullstack Web Developer 🕷️, late-night coder 🦉, and AI enthusiast ✨</b> who loves learning new things and sharing knowledge.
 
-I freelance (<u>open for permanent jobs</u>) and code in my free time on projects I'm passionate about,including **Open Source**.
-My main stack is **#React**, **#NextJS**, #NodeJS (**#ExpressJS**), **#AWS** and occasionally **#Symfony**. My favorite architectures are **#microservices** and **#menorepo**.
+I freelance and code in my free time on projects I'm passionate about, including **Open Source**.<br/>
+My main stack is **#React**, **#NextJS**, #NodeJS (**#ExpressJS**), **#AWS** and occasionally **#Symfony**.<br/>
+My favorite architectures are **#microservices** and **#menorepo**.
 
 <p align="center">
   <a href="https://skillicons.dev">
