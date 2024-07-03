@@ -18,7 +18,7 @@ _🌱 I’m currently learning or certififying my skills on **Microfrontends**, 
 ### Active projects
 <sm>_These are projects I'm actively developing. Features are regularly implemented and updated. Some may not be available yet._</sm>
 
-- **LeChatByYou**: A **human-to-human** and **human-to-AI** chat application built for productivity, with **LLM engine preference** switch feature.
+- **LeChatByYou(WIP)**: A **human-to-human** and **human-to-AI** chat application built for productivity, with **LLM engine preference** switch feature.
 - **[GarceGames](https://garcegames.vercel.app)**: Video game browsing platform focused on user experience, with GamePass and other catalog updates.
 - **[ISD](https://iamservicedesk.vercel.app)**: Productivity tool for time, task, and product management for individuals, developers, and collaborative teams. Build and share your roadmap, manage user feedback in a single application.
 
