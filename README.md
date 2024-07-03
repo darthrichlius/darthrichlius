@@ -1,13 +1,19 @@
 ## Hi there, I'm [RD](resume.rdieud.com)!! 👋
 <b>Fullstack Software Developer, _former_ Product Manager, and AI enthusiast.</b>
 
-I love learning and sharing knowledge. I freelance (open for job opportunities) and code in my free time on projects I'm passionate about. 
-My main stack is **React**, **NextJS**, NodeJS (**ExpressJS**), **AWS** and occasionally **Symfony**.
+I love learning and sharing knowledge. I freelance (open for job opportunities) and code in my free time on projects I'm passionate about including **Open Source**.<br/> 
+My main stack is **#React**, **#NextJS**, #NodeJS (**#ExpressJS**), **#AWS** and occasionally **#Symfony**. My favorite architectures are **#microservices** and **#menorepo**.
 
-- _🌱 I’m currently learning or certififying my skills on **Python**, **React Native**_
-  
-### Active Projects
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,symfony,aws,vercel,typescript&theme=dark" />
+  </a>
+</p>
 
+_🌱 I’m currently learning or certififying my skills on **Microfrontends**, **Python**, **React Native**_
+
+## Projects & Achievements
+### Active projects
 <sm>_These are projects I'm actively developing. Features are regularly implemented and updated. Some may not be available yet._</sm>
 
 - **LeChatByYou**: A **human-to-human** and **human-to-AI** chat application built for productivity, with **LLM engine preference** switch feature.
