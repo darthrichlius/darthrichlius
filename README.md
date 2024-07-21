@@ -12,7 +12,7 @@ My favorite architectures are **#microservices** and **#menorepo**.
   </a>
 </p>
 
-_🌱 I’m currently learning or certififying my skills on **Microfrontends**, **Python**, **React Native**_
+_🌱 I’m currently learning or certififying my skills on **Microfrontends**, **React Native**, **Python**_
 
 ## Projects & Achievements
 ### Active projects
