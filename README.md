@@ -1,4 +1,4 @@
-## Hi there, I'm [RD](https://resume.rdieud.com)!! 👋 (open to permanent work)
+## Hi there, I'm [RD](https://resume.rdieud.com)!! 👋
 
 <b>Fullstack Web Developer 🕷️, late-night coder 🦉, and AI enthusiast ✨</b> who loves learning new things and sharing knowledge.
 
